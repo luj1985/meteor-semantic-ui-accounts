@@ -1,8 +1,8 @@
 Package.describe({
     summary: "Accounts Templates styled for Semantic UI.",
     version: "1.4.0",
-    name: "useraccounts:semantic-ui",
-    git: "https://github.com/meteor-useraccounts/semantic-ui.git",
+    name: "semantic-ui-accounts",
+    git: "https://github.com/luj1985/semantic-ui.git",
 });
 
 Package.on_use(function(api, where) {
